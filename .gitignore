@@ -1,0 +1,4 @@
+*.contents
+venv/
+_pycache__/
+*.psy
